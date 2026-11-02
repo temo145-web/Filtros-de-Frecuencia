@@ -38,3 +38,4 @@ git branch -M main
 git remote add origin https://github.com/USUARIO/REPOSITORIO.git
 git push -u origin main
 ```
+Proyecto académico de Señales y Sistemas: diseño y análisis de filtros digitales.
