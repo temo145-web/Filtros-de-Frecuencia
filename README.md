@@ -14,6 +14,14 @@ python -m pip install -r requirements.txt
 python ejecutar_analisis.py
 ```
 
+## Verificación del proyecto
+
+El proyecto fue desarrollado en Python para analizar
+filtros digitales pasa bajos, pasa altos y pasa bandas.
+
+Se utilizó Git para el control de versiones y GitHub
+para publicar el código y los resultados.
+
 El programa crea las gráficas PNG en `figuras/` y los indicadores CSV/JSON en `resultados/`. El generador aleatorio usa semilla 731 para reproducir la señal de prueba.
 
 ## Filtros del experimento
