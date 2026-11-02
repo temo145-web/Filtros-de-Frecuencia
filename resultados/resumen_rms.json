@@ -1,0 +1,16 @@
+{
+  "frecuencia_muestreo_hz": 1200.0,
+  "duracion_segundos": 3.0,
+  "componentes_utiles_hz": [
+    8.0,
+    40.0,
+    160.0
+  ],
+  "interferencia_hz": 50.0,
+  "rms": {
+    "entrada": 0.9274486485968331,
+    "Pasa bajos Butterworth": 0.6431123529605516,
+    "Pasa altos Chebyshev II": 0.40130193063502995,
+    "Pasa bandas FIR Blackman": 0.4613779344330306
+  }
+}
